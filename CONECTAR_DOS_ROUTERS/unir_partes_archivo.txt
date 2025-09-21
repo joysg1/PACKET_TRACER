@@ -1,0 +1,1 @@
+--- cat archivo_parte_* > archivo_reunido.ext (Para reunir las partes)
